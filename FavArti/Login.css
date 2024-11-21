@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: url('/FavArti/Media/Screenshot_2024-11-21-09-38-14-851_com.facebook.katana-edit.jpg') no-repeat center center/cover;
+    background: url('Media/Screenshot_2024-11-21-09-38-14-851_com.facebook.katana-edit.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
